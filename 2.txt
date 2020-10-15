@@ -1,5 +1,5 @@
-q
-w
+q_upd_git_2
+w_upd_git_2
 e
 r
 t
