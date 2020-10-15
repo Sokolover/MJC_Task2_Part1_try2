@@ -1,5 +1,7 @@
 q_upd_git_1
 w_upd_git_1
+q_upd_git_2
+w_upd_git_2
 e
 r
 t
