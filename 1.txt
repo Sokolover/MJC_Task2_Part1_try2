@@ -4,7 +4,7 @@
 4_upd_point8
 5_upd_point18
 6_upd_point18
-7
-8
+7_upd_point19
+8_upd_point19
 9_upd_point20
 10
